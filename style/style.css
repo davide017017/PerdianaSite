@@ -19,6 +19,12 @@ h1, h2, h3, h4, h5, h6 {
   object-fit: cover;
   filter: brightness(50%);
 }
+/* todo */
+/* Da Togliere una volta ottimizzate le foto///////////////////////////// */
+.carousel-item:first-child img {
+  object-position: 50% 0%;
+}
+
 
 /* --- FEATURES --- */
 .features {
@@ -53,22 +59,25 @@ footer a:hover {
 }
 
 
+
+
+
 /* ----- ABOUT PAGE ----- */
 /* da rivedere//////////////////////////////// */
 .about {
   min-height: 50vh;
 }
 .background {
-  background-image: url(../img/staff.jpg);
+  background-image: url(../img/PerdianaHouse/genoa-4229890_1280.jpg);
   background-position: 50% 15%;
   background-repeat: no-repeat;
   background-size: cover;
-  filter: brightness(50%);
+  filter: brightness(40%);
   top: 0;
   left: 0;
   z-index: -1;
 }
-.about h1 {
+.title h1 {
   font-size: 5rem;
   color: white;
 }
@@ -77,12 +86,22 @@ footer a:hover {
   height: 300px;
 }
 
+
+
+
 /* ----- MENU PAGE ----- */
 /* da rivedere//////////////////////////////// */
 
-.background.menu {
-  background-image: url(../img/dishes.jpg);
+.background-waterfront {
+  background-image: url(../img/PerdianaWaterfront/jellyfish-4064588_1280.jpg);
   filter: brightness(40%);
+  background-position: 50% 15%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(40%);
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 .menu-pills .nav-link {
   color: gray;
