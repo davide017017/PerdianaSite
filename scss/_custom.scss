@@ -1,165 +1,129 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
-
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Roboto:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
-
 // // $primary-custom: rgb(209, 25, 226);
 // $primary: $primary-custom;
-
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
-
 :root {
     --primary-color:lightcyan;
     --color-hover-link: rgb(105, 222, 243);
     --custom-bg-dark: rgb(0,0,0);
     --custom-color-text-dark: white;
-
-    }
-    
-    body {
+    } 
+body {
     font-family: 'Roboto', sans-serif;
     }
-    
-    h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
     }
-    
-    /* ---HEADER --- */////////////////////////////////////////////////////////////
-
-    .name-site {
-        margin-bottom: 0;
-        padding-left: 10px;
-        text-align: center;
-        line-height: -5px;
-        display: inline-block;
-        font-family: "Homemade Apple", cursive;
-        font-weight: 400;
-        font-style: normal;
+/* ---HEADER --- */////////////////////////////////////////////////////////////
+.name-site {
+    margin-bottom: 0;
+    padding-left: 10px;
+    text-align: center;
+    line-height: -5px;
+    display: inline-block;
+    font-family: "Homemade Apple", cursive;
+    font-weight: 400;
+    font-style: normal;
     }   
-
-    header nav {
-        background-color: var(--custom-bg-dark);
+header nav {
+    background-color: var(--custom-bg-dark);
     }
-    .border-active {
-        border-bottom: 2px solid var(--color-hover-link);
+.border-active {
+    border-bottom: 2px solid var(--color-hover-link);
     }
-    header a img {
-        height: 50px;
-        border-radius: 50%;
+header a img {
+    height: 50px;
+    border-radius: 50%;
     }
-
-    /* ---CAROSELLO --- *////////////////////////////////////////////////////////////
-
-    .carousel-item {
+/* ---CAROSELLO --- *////////////////////////////////////////////////////////////
+.carousel-item {
     height:70vh;
     min-height: 400px;
     max-height: 800px;
     }
-    
-    .carousel-item > img {
+.carousel-item > img {
     object-fit: cover;
     filter: brightness(50%);
     }
     
-    .carousel-item:first-child img {
+.carousel-item:first-child img {
     object-position: 50% 0%;
     }
-    
-    /* --- FEATURES --- */
-
-    .features {
+/* --- FEATURES --- */
+.features {
         background-color: var(--primary-color);
     }
-    .features h2 {
+.features h2 {
     font-weight: 400;
     }
-    
-    /* --- MAX-WIDTH RESIZE --- */
-
+/* --- MAX-WIDTH RESIZE --- */
     .resized-min-w {
         min-width: 240px;
     }
-
-    /* TESTI DECRITTIVI /////////////////////////////////////////////////////// */
-
-    .text-decoration-none:hover h2{
+/* TESTI DECRITTIVI /////////////////////////////////////////////////////// */
+.text-decoration-none:hover h2{
     color:var(--color-hover-link);
     }
-    .background-color1 {
+.background-color1 {
     background-color: var(--primary-color);
     }
-    
-    /* --- FOOTER ---////////////////////////////////////////////////////////// */
-    
-    footer {
+/* --- FOOTER ---////////////////////////////////////////////////////////// */
+footer {
     font-size: 0.8rem;
     background-color: var(--custom-bg-dark);
     color: var(--custom-color-text-dark);
-
     }
-    .footer-link a {
+.footer-link a {
     color: #bebebe;
     }
-    .footer-link a:hover{
+.footer-link a:hover{
     color:var(--color-hover-link);
     }
-    footer a:hover {
+footer a:hover {
     color:var(--color-hover-link);
     }
-    
-    /* ----- PERDIANA HOUSE ---------------------------------------------------- */
-
-    .about {
+/* ----- PERDIANA HOUSE ---------------------------------------------------- */
+.about {
     min-height: 50vh;
     }
-    .background {
+.background {
     background-position: 50% 15%;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: brightness(40%);
+filter: brightness(40%);
     top: 0;
     left: 0;
     z-index: -1;
     }
-    .background-house {
+.background-house {
     background-image: url(../../img/PerdianaHouse/sfondo1.jpg);
     }
-    .title h1 {
+.title h1 {
     font-size: 5rem;
     color: white;
     }
-    .gallery div img {
+.gallery div img {
     object-fit: cover;
     }
-    
-    /* ----- PERDIANA WATERFRONT ------------------------------------------------ */
-    
-    .background-waterfront {
+/* ----- PERDIANA WATERFRONT ------------------------------------------------ */
+.background-waterfront {
     background-image: url(../../img/PerdianaWaterfront/Sfondo1.jpg);
     }
-    
-    /* ----- CONTATTI ---------------------------------------------------------- */
-    
-    .background-contatti {
+/* ----- CONTATTI ---------------------------------------------------------- */
+.background-contatti {
     background-image: url(../../img/contattaci/sfondo1.jpg);
     }
+/* ----- DOVE SIAMO ------------------------------------------------------- */
 
-    /* ----- DOVE SIAMO ------------------------------------------------------- */
-    
-    .background-dove-siamo {
+.background-dove-siamo {
     background-image: url(../../img/dovesiamo/sfondo1.jpg);
     }
-    .image-cover {
+.image-cover {
     object-fit: cover;
     }
-
-    // .col {
-    //     border:2px solid black;
-    // }
-    // .row {
-    //     border:2px solid rgb(175, 13, 13);
-    // }
-    iframe{
+iframe{
     height: 300px;
     }
 
