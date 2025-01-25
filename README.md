@@ -38,11 +38,9 @@ Questo progetto è un sito web statico creato con HTML, CSS e JavaScript (con Bo
 
 ## Licenza MIT
 
+Questo portfolio è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
+
+[![Licenza](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) \[2024] \[davide017017]
-
-Con la presente si concede, a titolo gratuito, a chiunque ottenga una copia di questo software e dei relativi file di documentazione ("Software"), il diritto di utilizzare il Software senza restrizioni, inclusi, senza limitazioni, i diritti di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software, e di consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
-
-L'avviso di copyright di cui sopra e questo avviso di autorizzazione devono essere inclusi in tutte le copie o parti sostanziali del Software.
-
-IL SOFTWARE È FORNITO "COSÌ COM'È", SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE, INCLUSE, A TITOLO ESEMPLIFICATIVO MA NON ESAUSTIVO, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ A UN PARTICOLARE SCOPO E NON VIOLAZIONE. IN NESSUN CASO GLI AUTORI O I TITOLARI DEL COPYRIGHT SARANNO RESPONSABILI PER QUALSIASI RECLAMO, DANNO O ALTRA RESPONSABILITÀ, SIA IN UN'AZIONE DI CONTRATTO, ILLECITO O ALTRO, DERIVANTE DA, O IN CONNESSIONE CON, IL SOFTWARE O L'USO O ALTRE TRATTATIVE NEL SOFTWARE.
-
+ 
