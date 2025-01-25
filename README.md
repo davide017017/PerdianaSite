@@ -38,7 +38,7 @@ Questo progetto è un sito web statico creato con HTML, CSS e JavaScript (con Bo
 
 ## Licenza MIT
 
-Copyright (c) \[Anno] \[Nome del Titolare del Copyright]
+Copyright (c) \[2024] \[davide017017]
 
 Con la presente si concede, a titolo gratuito, a chiunque ottenga una copia di questo software e dei relativi file di documentazione ("Software"), il diritto di utilizzare il Software senza restrizioni, inclusi, senza limitazioni, i diritti di utilizzare, copiare, modificare, unire, pubblicare, distribuire, concedere in sublicenza e/o vendere copie del Software, e di consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
 
