@@ -8,6 +8,8 @@
 
 **Sito web statico per Perdiana Accomodations, che offre alloggi in affitto a Genova. Presenta le proprietà Perdiana House e Perdiana Waterfront, informazioni di contatto e mappa.**
 
+![Screenshot della Todo List App](Perdiana-Screenshot.JPG)
+
 ## ✨ Descrizione
 
 Questo progetto è un sito web statico sviluppato utilizzando HTML5, CSS3 e JavaScript, con il framework Bootstrap 5 per uno styling responsivo e moderno. L'obiettivo del sito è presentare Perdiana Accomodations, un'attività di affitti brevi a Genova, mostrando le due proprietà principali (Perdiana House e Perdiana Waterfront), fornendo informazioni di contatto utili e indicando la posizione tramite una mappa integrata.
