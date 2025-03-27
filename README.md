@@ -1,46 +1,41 @@
-# Perdiana Accomodations - Sito Web
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Made with HTML5](https://img.shields.io/badge/Made%20with-HTML5-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Made with CSS3](https://img.shields.io/badge/Made%20with-CSS3-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+[![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow.svg)](https://www.javascript.com/)
+[![Styled with Bootstrap 5](https://img.shields.io/badge/Styled%20with-Bootstrap_5-blueviolet.svg)](https://getbootstrap.com/)
 
-Sito web per Perdiana Accomodations, che offre alloggi in affitto a Genova. Il sito presenta le due proprietà principali, Perdiana House e Perdiana Waterfront, oltre a informazioni di contatto e una mappa della posizione.
+# 🏨 Perdiana Accomodations - Sito Web
 
-## Descrizione
+**Sito web statico per Perdiana Accomodations, che offre alloggi in affitto a Genova. Presenta le proprietà Perdiana House e Perdiana Waterfront, informazioni di contatto e mappa.**
 
-Questo progetto è un sito web statico creato con HTML, CSS e JavaScript (con Bootstrap) per promuovere gli alloggi di Perdiana Accomodations a Genova. Il sito è progettato per essere responsivo e accessibile, offrendo un'esperienza utente ottimale su diversi dispositivi.
+## ✨ Descrizione
 
-## Caratteristiche Principali
+Questo progetto è un sito web statico sviluppato utilizzando HTML5, CSS3 e JavaScript, con il framework Bootstrap 5 per uno styling responsivo e moderno. L'obiettivo del sito è presentare Perdiana Accomodations, un'attività di affitti brevi a Genova, mostrando le due proprietà principali (Perdiana House e Perdiana Waterfront), fornendo informazioni di contatto utili e indicando la posizione tramite una mappa integrata.
 
-*   **Slideshow:** Presentazione di immagini delle proprietà con didascalie e call to action.
-*   **Presentazione Alloggi:** Descrizioni dettagliate di Perdiana House e Perdiana Waterfront.
-*   **Informazioni di Contatto:** Dettagli per contattare Perdiana Accomodations, inclusi numero di telefono ed email.
-*   **Mappa:** Integrazione di Google Maps per mostrare la posizione.
-*   **Integrazione Social Media:** Link diretti alle pagine Facebook, Twitter e Instagram.
-*   **Ottimizzazione SEO:** Meta tag per una migliore indicizzazione sui motori di ricerca.
-*   **Responsività:** Design adattabile a diverse dimensioni di schermo (desktop, tablet, mobile).
+## 🚀 Caratteristiche Principali
 
-## Tecnologie Utilizzate
+* **Slideshow:** Una galleria di immagini dinamica per mostrare le proprietà, completa di didascalie e inviti all'azione.
+* **Presentazione Alloggi:** Sezioni dedicate con descrizioni dettagliate e immagini di Perdiana House e Perdiana Waterfront.
+* **Informazioni di Contatto:** Una sezione chiara e accessibile con il numero di telefono e l'indirizzo email per contattare Perdiana Accomodations.
+* **Mappa:** Integrazione di Google Maps per visualizzare la posizione degli alloggi a Genova.
+* **Integrazione Social Media:** Link diretti alle pagine social di Perdiana Accomodations su Facebook, Twitter e Instagram.
+* **Ottimizzazione SEO:** Implementazione di meta tag strategici per migliorare la visibilità sui motori di ricerca.
+* **Design Responsivo:** Il layout del sito si adatta perfettamente a diverse dimensioni di schermo, garantendo un'esperienza utente ottimale su desktop, tablet e dispositivi mobili.
 
-*   HTML5
-*   CSS3
-*   JavaScript
-*   Bootstrap 5
-*   Google Maps Embed API
+## 🛠️ Tecnologie Utilizzate
 
-## Come Avviare il Sito Localmente
+* **Frontend:**
+    * **HTML5:** Linguaggio di markup standard per la struttura del sito web.
+    * **CSS3:** Utilizzato per lo styling e l'aspetto visivo del sito.
+    * **JavaScript:** Per funzionalità interattive come lo slideshow.
+    * **[Bootstrap 5](https://getbootstrap.com/)**: Framework CSS per la creazione di un layout responsivo e componenti predefiniti.
+    * **[Google Maps Embed API](https://developers.google.com/maps/documentation/embed/get-started)**: Per integrare la mappa della posizione.
 
-1.  Clona il repository (se disponibile su un repository come GitHub): `git clone <URL_del_repository>`
-2.  Apri il file `index.html` nel tuo browser.
+## ⚙️ Come Avviare il Sito Localmente
 
-## Informazioni Aggiuntive
+1. **Clona il repository** (se il codice è ospitato su una piattaforma come GitHub):
+   ```bash
+   git clone <URL_del_repository>
 
-*   **Responsività:** Il sito è stato testato su diversi dispositivi per garantire una visualizzazione ottimale.
-*   **Accessibilità:** Sono state seguite le best practice per migliorare l'accessibilità (ad esempio, testi alternativi per le immagini).
-*   **Meta Tag:** Sono stati utilizzati meta tag per ottimizzare il sito per i motori di ricerca.
-*   **Licenza:** Questo progetto è distribuito sotto licenza MIT.
-
-## Licenza MIT
-
-Questo portfolio è distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
-
-[![Licenza](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Copyright (c) \[2024] \[davide017017]
+**Realizzato con ❤️ e codice da davide017017**
  
