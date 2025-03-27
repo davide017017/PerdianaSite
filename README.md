@@ -8,7 +8,7 @@
 
 **Sito web statico per Perdiana Accomodations, che offre alloggi in affitto a Genova. Presenta le proprietà Perdiana House e Perdiana Waterfront, informazioni di contatto e mappa.**
 
-![Screenshot della Todo List App](Perdiana-Screenshot.JPG)
+![Screenshot del sito Perdiana Accomodations ](Perdiana-Screenshot.JPG)
 
 ## ✨ Descrizione
 
